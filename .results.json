@@ -5,15 +5,15 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2021-10-02T03:40:46.253Z",
-    "end": "2021-10-02T03:40:46.999Z",
-    "duration": 746
+    "start": "2022-05-10T16:42:50.758Z",
+    "end": "2022-05-10T16:42:51.857Z",
+    "duration": 1099
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,14 +27,14 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,7 +59,7 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,14 +73,14 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
